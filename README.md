@@ -1,5 +1,5 @@
 # QA Automation Coding Challenge
-## testtest
+## test
 Dieses Repository enthält eine Interview-Challenge für die Position des Senior QA Automation Engineers bei Ista Express.
 
 ## Die Challenge
